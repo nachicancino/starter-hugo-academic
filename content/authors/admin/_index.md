@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Systems Biology
-avatar_filename: avatar.jpg
+avatar_filename: 1635250298373.jpg
 bio: My research interests include building metabolic models, performing FBA and
   analyzing differences in mycobacteria metabolism.
 interests:
@@ -9,9 +9,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/nachicancino
